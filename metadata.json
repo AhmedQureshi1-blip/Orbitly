@@ -1,0 +1,6 @@
+{
+  "name": "Orbitly",
+  "description": "Orbitly — A high-end digital products design & development studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
